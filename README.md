@@ -1,6 +1,6 @@
 # Jeu de la vie
 
-Jeu réalisé pour une démonstration du language **C** lors de mon DUT Info à Limoges.
+Jeu réalisé pour une démonstration du language **C** lors de mon DUT Info à Limoges.  
 En cours de refactoring
 
 # Utilisation
